@@ -1,0 +1,2 @@
+student@B4L0106:~$ gcc d1.c -o d1 `pkg-config --cflags --libs gtk+-2.0`
+
